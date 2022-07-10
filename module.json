@@ -2,7 +2,7 @@
 , "title": "TSL Content"
 , "descriptions": "Extra content from the TSL setting."
 , "author": "Tyler Baum"
-, "version": "0.1.0"
+, "version": "0.1.1"
 , "minimumCoreVersion": "9.269"
 , "compatibleCoreVersion": "9.269"
 , "url": "https://github.com/AugmenTab/tsl-content"
